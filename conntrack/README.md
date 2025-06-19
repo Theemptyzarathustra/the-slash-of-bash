@@ -19,7 +19,7 @@ Catatan:
 Contoh penggunaan:
   conntrack.sh
   conntrack.sh -f ESTABLISHED
-  conntrack.sh -C 30.30.238.21
+  conntrack.sh -C 30.50.239.21
   conntrack.sh -c
   conntrack.sh -c STATUS
   conntrack.sh -c STATUS,PROTO_ID
